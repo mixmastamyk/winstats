@@ -29,7 +29,6 @@ setup(
     author        = 'Mike Miller',
     author_email  = 'mixmastamyk@bitbucket.org',
     url           = 'https://github.com/mixmastamyk/winstats',
-    download_url  = 'https://github.com/mixmastamyk/winstats/get/default.tar.gz',
     py_modules    = ['winstats'],
 
     long_description = long_description,
